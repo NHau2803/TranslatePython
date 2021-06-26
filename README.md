@@ -1,7 +1,9 @@
 # translate-python
+
+# Description
 Basic translation program between English and Vietnamese
 
-Using library as: 
+# Using 
 + tk 
 + gtts 
 + speech_recognition 
